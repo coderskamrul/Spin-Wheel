@@ -1,14 +1,14 @@
 # Spin-Whee Task 01
 
 ### Test List of Names
-Kamrul
-Sharif
-Emrul
-Rifat
-Ibrahim
-Nazmul
-Islam
-Zahid
+* Kamrul
+* Sharif
+* Emrul
+* Rifat
+* Ibrahim
+* Nazmul
+* Islam
+* Zahid
 
 
 ### Output Images
